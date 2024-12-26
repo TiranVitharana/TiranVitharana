@@ -11,13 +11,13 @@
 
  
 <div align="center"> 
-  <a href="mailto:[your-email]">
+  <a href="mailto:vitharanats.22@uom.lk">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/[your-linkedin]" target="_blank">
+  <a href="https://linkedin.com/in/Tiran Vitharana" target="www.linkedin.com/in/tiran-vitharana-3a234a254">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://TiranVitharana.github.io" target="_blank">
+  <a href="https://TiranVitharana.github.io" target="Tiran Vitharana">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
@@ -27,8 +27,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mongodb,nextjs,mysql" /><br>
 </div>
 
 <br/>
