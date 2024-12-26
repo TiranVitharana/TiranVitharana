@@ -8,17 +8,7 @@
 
 <br/>
 
-<div align="center">
- 
- 🔭 I'm currently working on **[your current project]**
- 
- 🌱 I'm currently learning **[technologies you're learning]**
 
-💬 Ask me about **[your areas of expertise]... or anything [here](https://github.com/TiranVitharana/TiranVitharana/issues)**
-
-⚡ Fun fact **[your fun fact]**
-
- </div>
  
 <div align="center"> 
   <a href="mailto:[your-email]">
